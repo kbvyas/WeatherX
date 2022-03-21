@@ -9,6 +9,8 @@ A dark-mode enabled iOS app that grabs live weather data using API from https://
 ## Live Demo
 #### WeatherX Live Demo
 
+https://github.com/kbvyas/WeatherX/blob/7ed3f5b1028915714095ac1bfc79c1e21d7286be/WeatherX/WeatherX-Demo.mp4
+
 ## Learning Objectives
 
 * Creating a dark-mode enabled app.
